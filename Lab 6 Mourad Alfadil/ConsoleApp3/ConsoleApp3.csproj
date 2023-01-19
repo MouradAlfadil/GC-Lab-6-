@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\Mourad\source\repos\GC Lab 6.cs" Link="GC Lab 6.cs" />
+    <Compile Include="C:\Users\Mourad\source\repos\Lab 6 Mourad Alfadil-1.cs" Link="Lab 6 Mourad Alfadil-1.cs" />
+  </ItemGroup>
+
+</Project>
